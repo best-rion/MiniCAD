@@ -1,1 +1,1 @@
-I tried to mimic AutoCAD with SFML
+I tried to mimic AutoCAD with SFML/C++.
